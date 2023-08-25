@@ -2,12 +2,12 @@ Hi! I'm Robin Salen, currently working as cryptographer at [Toposware](https://t
 where I am playing around various cryptographic primitives and proving systems. I am trying to 
 use both my mathematician and developer skills to make the digital world a better place, either
 through my job or side projects and collaborations! And when I'm not working, I may either be doing
-some photography, practicing piano, or just sleeping until the sun rises again :smiley:
+some photography, practicing piano, or just sleeping until the sun rises again 😃
 
 My interests in crypto(graphy) are wide and include, but are not limited to, elliptic curves and pairings,
 zero-knowledge proofs, symmetric primitives and fully homomorphic encryption. Below are a few projects I
 have worked on with peers, if you think we could be a good fit together, I am always up for fun collaborations
-so shoot me an email! :wink:
+so shoot me an email! 😉
 
 ## Publications
 

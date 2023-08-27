@@ -1,7 +1,7 @@
 Hi there!
 
 I am Robin Salen, currently working as cryptographer at [Toposware](https://toposware.com/),
-where I am playing around various cryptographic primitives and proving systems. I am trying to 
+where I am playing around various cryptographic primitives and proving systems. I am trying to
 use both my mathematician and developer skills to make the digital world a better place, either
 through my job or side projects and collaborations! And when I'm not working, I may either be doing
 some photography, practicing piano, or just sleeping until the sun rises again 😃
@@ -11,7 +11,7 @@ zero-knowledge proofs, symmetric primitives and fully homomorphic encryption. Be
 have worked on with peers, if you think we could be a good fit together, I am always up for fun collaborations
 so shoot me an email! 😉
 
-## Publications
+## [Publications](https://scholar.google.com/citations?user=KZ7dQ1UAAAAJ&hl=en&authuser=1)
 
 - Clémence Bouvier, Pierre Briaud, Pyrros Chaidos, Léo Perrin, **Robin Salen**, Vesselin Velichkov, Danny Willems, [New design techniques for efficient arithmetization-oriented hash functions: anemoi permutations and jive compression mode](https://link.springer.com/chapter/10.1007/978-3-031-38548-3_17), 2023, *CRYPTO'23*
 &nbsp;
@@ -19,7 +19,7 @@ so shoot me an email! 😉
 - **Robin Salen**, [Two additional instantiations from the Tip5 hash function construction](https://toposware.com/paper_tip5.pdf), 2023, *Toposware*
 &nbsp;
 
-- **Robin Salen**, Vijaykumar Singh, Vladimir Soukharev, [Security analysis of elliptic curves over sextic extension of small prime fields](https://eprint.iacr.org/
+- **Robin Salen**, Vijaykumar Singh, Vladimir Soukharev, [Security analysis of elliptic curves over sextic extension of small prime fields](<https://eprint.iacr.org/>
 2022/277), 2021, *Cryptology ePrint Archive*
 &nbsp;
 
